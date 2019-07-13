@@ -2,7 +2,6 @@ This
 is
 a
 new
-
 file
-with2
+with
 text
